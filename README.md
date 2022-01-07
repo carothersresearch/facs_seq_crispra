@@ -22,4 +22,4 @@ Each file should contain more specific documentation as to it's usage
 
 ### Mock Data Generation Pipeline:
 
-![alt](.\\documentation\\pipeline.png)
+![alt](./documentation/pipeline.png)
